@@ -4,4 +4,4 @@ branch-b
 branch a
 
 ## Git conflict Discussion
-Had a conflict because I had content originally in the main branch and incoming content from the branch-b branch. I resolved it by allowing the contents in both branch in the main branch.
+You can find discussion on my git conflict [here.](https://docs.google.com/document/d/1IoMtqgmoYdJL9iQu3WSlobiqH0x1nI0YzTAhJheFlvE/edit?usp=sharing)
