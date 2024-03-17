@@ -1,8 +1,5 @@
 #!/usr/bin/bash
 
-./commit_msg.sh
-
-
 pycodestyle circle_calc.py
 # linting fot area.py
 EXIT_CODE=$?

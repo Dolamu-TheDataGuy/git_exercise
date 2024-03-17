@@ -10,4 +10,3 @@ if ! [[ "$commit_msg" =~ ^\[.*\]: ]]; then
     echo "Please validate commit messages"
     exit 1
 fi
-0
