@@ -1,5 +1,7 @@
 #!/usr/bin/bash
 
+echo "Code started"
+
 pycodestyle circle_calc.py
 # linting fot area.py
 EXIT_CODE=$?
